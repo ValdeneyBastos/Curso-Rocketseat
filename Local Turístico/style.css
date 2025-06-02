@@ -1,0 +1,7 @@
+.headline {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold; /* a fonte fica em negrito */
+  color: #e1624f;
+  text-transform: uppercase; /* a fonte fica com todas as letras em maiúsculo */
+}
